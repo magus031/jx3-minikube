@@ -8,7 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
-    - name: jenkinsx-spring-boot-http-gradle
+    - name: golangtest
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
